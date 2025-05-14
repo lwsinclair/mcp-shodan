@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/adeosec-mcp-shodan-badge.png)](https://mseep.ai/app/adeosec-mcp-shodan)
+
 # Shodan MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@burtthecoder/mcp-shodan)](https://smithery.ai/server/@burtthecoder/mcp-shodan)
